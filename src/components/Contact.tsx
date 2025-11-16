@@ -20,7 +20,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold mb-1">Teléfono</h3>
-                <p className="text-gray-600">+1 234 567 890</p>
+                <p className="text-gray-600">+34 613 469 077</p>
               </div>
             </div>
 
@@ -30,7 +30,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold mb-1">Email</h3>
-                <p className="text-gray-600">info@empresa.com</p>
+                <p className="text-gray-600">reformas_castillo@outlook.com</p>
               </div>
             </div>
 

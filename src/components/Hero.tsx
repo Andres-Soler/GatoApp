@@ -47,8 +47,9 @@ const Hero = () => {
             Transforma tu Espacio
           </h1>
           <p className="text-lg md:text-xl text-white/90 mb-8">
-            Convertimos tus ideas en realidad con diseños innovadores y acabados de primera calidad. 
-            Más de 10 años de experiencia transformando espacios en hogares extraordinarios.
+          Ofrecemos servicios completos de construcción, remodelación y mantenimiento para todo tipo de proyectos. 
+          Especialistas en instalación de cerámicas, acabados, fachadas, cocinas, baños, jardinería, pisos cerámica, laminados, enlucidos y más. 
+          Garantizamos calidad, profesionalismo y soluciones adaptadas a sus necesidades.
           </p>
           <button
             onClick={scrollToContact}

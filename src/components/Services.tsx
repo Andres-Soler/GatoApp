@@ -5,22 +5,22 @@ const Services = () => {
     {
       icon: Home,
       title: "Remodelación Integral",
-      description: "Transformación completa de espacios residenciales y comerciales."
+      description: "Desde pequeñas instalaciones hasta grandes reformas, en Reformas Castillo ofrecemos un servicio completo y confiable."
     },
     {
       icon: Paintbrush,
       title: "Acabados",
-      description: "Trabajos de pintura, texturas y acabados especializados."
+      description: "En Reformas Castillo, nos enorgullecemos de ofrecer acabados impecables y duraderos que reflejen la mas alta calidad."
     },
     {
       icon: Wrench,
       title: "Instalaciones",
-      description: "Servicios de plomería, electricidad y carpintería."
+      description: "En Reformas Castillo nos aseguramos que cada proceso sea fluido y sin complicaciones, permitiendote disfrutar de tu espacio renovado."
     },
     {
       icon: Ruler,
       title: "Diseño",
-      description: "Asesoría y planificación de espacios personalizados."
+      description: "En Reformas Castillo ofrecemos diseños que se adaptan perfectamente a la vision y estilo que buscas en tu reforma, siguiendo de cerca tus preferencias."
     }
   ];
 
