@@ -1,0 +1,118 @@
+body {
+  background-color: #1a1a2e;
+  color: #f2f2f2;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.contenedor {
+  background-color: #252540;
+  padding: 40px;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.3);
+  width: 90%;
+  max-width: 400px;
+}
+
+.titulo {
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+}
+
+.botones button {
+  background-color: #7f5af0;
+  color: #fff;
+  border: none;
+  margin: 10px;
+  padding: 12px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.botones button:hover {
+  background-color: #937bff;
+  transform: scale(1.05);
+}
+
+button {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+body {
+  background: radial-gradient(1000px at 20% 30%, rgba(0,212,255,0.05), transparent),
+              radial-gradient(1000px at 80% 70%, rgba(138,43,226,0.05), transparent),
+              #07070a;
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.contenedor {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 0 0 25px rgba(0, 212, 255, 0.06);
+  width: 90%;
+  max-width: 500px;
+  backdrop-filter: blur(8px);
+}
+
+.titulo {
+  font-size: 20px;
+  margin-bottom: 20px;
+  line-height: 1.4;
+}
+
+.botones {
+  display: grid;
+  gap: 10px;
+}
+
+.botones button {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  padding: 12px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 15px;
+  transition: all 0.2s ease;
+}
+
+.botones button:hover {
+  background: linear-gradient(90deg, #00d4ff, #8a2be2);
+  color: #041023;
+  transform: translateY(-3px);
+}
+
+/* 💫 Botón de reintentar */
+button {
+  background: linear-gradient(90deg, #00d4ff, #8a2be2);
+  color: #041023;
+  border: none;
+  border-radius: 12px;
+  padding: 12px 20px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 20px;
+  box-shadow: 0 8px 20px rgba(0,212,255,0.15);
+  transition: all 0.25s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 30px rgba(0,212,255,0.25);
+}
